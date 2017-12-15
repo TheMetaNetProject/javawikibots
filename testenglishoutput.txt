@@ -1,0 +1,100 @@
+----------------------------------------
+- hold_back truth:
+----------------------------------------
+- stir excitement:
+stir excitement 2
+stir rage 1
+stir anger 1
+----------------------------------------
+- impose decision:
+impose will 50
+impose order 43
+impose decision 7
+impose judgement 3
+impose opinion 2
+impose judgment 1
+impose conclusion 1
+adopt recommendation 9
+adopt decision 6
+adopt order 2
+adopt opinion 2
+adopt will 1
+adopt judgment 1
+adopt judgement 1
+approve recommendation 13
+approve decision 10
+approve order 6
+approve conclusion 2
+approve judgment 1
+implement recommendation 65
+implement decision 47
+implement will 6
+implement order 5
+implement judgment 2
+implement opinion 1
+impose will 50
+impose order 43
+impose decision 7
+impose judgement 3
+impose opinion 2
+impose judgment 1
+impose conclusion 1
+----------------------------------------
+- reflect concern:
+reflect concern 78
+reflect interest 74
+reflect commitment 26
+reflect preference 22
+reflect wish 17
+reflect determination 12
+reflect intention 8
+reflect willingness 4
+reflect sympathy 3
+reflect loyalty 2
+disclose interest 10
+disclose intention 3
+disclose concern 2
+disclose sympathy 1
+disclose commitment 1
+disguise interest 6
+disguise intention 3
+disguise determination 2
+obscure interest 1
+obscure determination 1
+----------------------------------------
+- reflect enthusiasm:
+reflect desire 43
+reflect feeling 23
+reflect fear 15
+reflect anxiety 9
+reflect suspicion 3
+reflect hostility 3
+reflect enthusiasm 2
+reflect emotion 2
+reflect doubt 2
+reflect instinct 1
+reflect impulse 1
+disguise feeling 11
+disguise emotion 2
+disguise desire 1
+disguise anxiety 1
+----------------------------------------
+- shape result:
+shape result 1
+----------------------------------------
+- mend marriage:
+mend marriage 3
+----------------------------------------
+- brush_aside accusation:
+----------------------------------------
+- brush_aside criticism:
+brush_aside suggestion 6
+brush_aside criticism 2
+brush_aside complaint 1
+brush_aside claim 1
+brush_aside charge 1
+----------------------------------------
+- overlook subject:
+overlook aspect 5
+overlook matter 2
+----------------------------------------
